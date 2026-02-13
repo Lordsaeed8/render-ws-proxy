@@ -1,0 +1,11 @@
+  {
+    "name": "render-ws-proxy",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+      "http-proxy": "^1.18.1"
+    },
+    "scripts": {
+      "start": "node server.js"
+    }
+  }
